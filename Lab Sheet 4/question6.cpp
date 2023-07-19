@@ -11,5 +11,6 @@ using namespace std;
 
 int main(){
     cout << "Hi, there!" << endl;
+    cout << "K xa tyaha ko khabar?" << endl;
     return 0;
 }
